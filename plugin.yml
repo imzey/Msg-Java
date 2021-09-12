@@ -1,0 +1,8 @@
+name: StrataniaMP
+author: zey
+version: 1.0
+main: fr.zey.msg.Main
+commands:
+  msg:
+  r:
+  reply:
